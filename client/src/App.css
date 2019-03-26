@@ -69,3 +69,9 @@
     transform: rotate(360deg);
   }
 }
+
+.displayflex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
