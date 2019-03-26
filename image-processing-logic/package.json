@@ -1,0 +1,13 @@
+{
+  "name": "image-processing-logic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.13.2",
+    "express": "^4.16.4",
+    "jimp": "^0.6.0",
+    "node-fetch": "^2.3.0"
+  }
+}
